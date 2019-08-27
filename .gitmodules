@@ -1,0 +1,4 @@
+[submodule "Algorithms"]
+	path = Algorithms
+	url = git@github.com:venu211/Algorithms.git
+	branch = master
